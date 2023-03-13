@@ -4,7 +4,7 @@
   <img src="https://pa1.narvii.com/6936/318f32155b23293df69e172bc543227f807eb107r1-330-246_hq.gif" width="200">
 </h1>
 
-<h3 align="center">Estudiante de Licenciatura en Sistemas | Estudiante de Desarrollo Web Full Stack</h2>
+<h3 align="center">Estudiante de Licenciatura en Sistemas | Estudiante de Desarrollo Web Full Stack | Technology Apprentice en J.P. Morgan </h2>
 
 <p>Aquí puedes encontrar: <br>
   - Proyectos personales y universitarios 💻
